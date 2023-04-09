@@ -1,5 +1,4 @@
 ## Wifi Revealer
----
 This program be able to preview your wifi password using subprocess library
 
 ### Language and Tools
